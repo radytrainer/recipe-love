@@ -1,0 +1,31 @@
+#recipe-one-ingredient,
+#recipe-two-ingredient {
+    border-left: 2px solid pink;
+}
+#recipe-one-ingredient {
+    border-top: 2px solid pink;
+}
+#recipe-two-ingredient {
+    border-bottom: 2px solid pink;
+    border-right: 2px solid pink;
+}
+tr, td {
+   padding: 10px 10px 5px 50px;
+}
+img {
+    border-radius: 50%;
+}
+#recipe {
+    margin-bottom: 40px;
+}
+
+#recipe-name {
+    padding: 20px;
+    border-bottom: 1px solid;
+}
+#guest  {
+    font-family: 'Battambang';
+}
+#stepCook {
+    border:none;
+}
